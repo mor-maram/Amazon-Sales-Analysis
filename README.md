@@ -10,11 +10,10 @@ Amazon sales data covering various product categories, prices, ratings, and disc
 
 ## How to Run
 
-1. Download the dataset file `amazon.csv` 
+1. Download the dataset file `amazon.csv` from [Kaggle Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)  
 2. Upload the `amazon.csv` file to the same folder where your Jupyter Notebook is located  
 3. Open the Jupyter Notebook (`.ipynb`) file  
 4. Run the cells step-by-step to perform the analysis  
-
 
 ## Author
 
